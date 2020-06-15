@@ -6,8 +6,6 @@ I have been working on my experiance in Excel, Python, & SQL.
 
 ### Quick Links
 
-[Check out my resume!](https://guides.github.com/features/mastering-markdown).
-
 [See my recent Github Feed](https://github.com/Crystal-Whitehead).
 
-[Extended Background]([insert full resume here])
+<a href='https://Crystal-Whitehead.github.io/CrystalWhitehead_Resume.pdf'>Check out my resume!</a>
